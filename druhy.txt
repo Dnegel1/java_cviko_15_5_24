@@ -1,1 +1,9 @@
 Zmena v souboru druhy
+
+000
+111
+222
+
+function dbsave(){
+	save()
+}
