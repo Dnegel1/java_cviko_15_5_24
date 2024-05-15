@@ -5,5 +5,8 @@ Zmena v souboru druhy
 222
 
 function dbsave(){
+	if(podminka){
+	osetri()	
+}
 	save()
 }
